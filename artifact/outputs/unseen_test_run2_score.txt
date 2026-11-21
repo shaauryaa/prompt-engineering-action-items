@@ -1,0 +1,12 @@
+File: unseen_test_run2.md
+Table rows parsed:            9
+Items found (task + owner):   9/9
+Fully correct (+ deadline):   9/9
+Missed or wrong owner:        0
+Wrong deadline:               0
+Extra rows (non-tasks etc.):  0
+Text lines outside table:     0
+'No deadline' spellings:      1 ['none']
+'No owner' spellings:         1 ['unassigned']
+Tables split by NOTE heading: yes (0 tasks under the wrong note)
+Untranslated Hindi deadlines: 0 []

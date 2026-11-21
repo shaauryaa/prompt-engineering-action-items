@@ -1,0 +1,9 @@
+step,change,items_found,fully_correct,extra_rows,text_outside_table,no_deadline_spellings,untranslated_hindi,one_table_per_note
+1,Baseline: 'Extract the action items ... as a table.',36/36,36/36,1,1,3,0,no
+2,+ only firmly agreed tasks; exclude decisions/cancelled/done/optional,30/36,30/36,0,7,2,0,no
+3,Reworded scope rule: offers count; unowned tasks kept as Unassigned,36/36,36/36,0,1,3,0,no
+4,+ deadline exactly as stated; None if missing,36/36,35/36,0,1,1,3,no
+5,"Rewrote deadline rule: English, keep conditions, None only if no timing",36/36,36/36,0,0,1,0,no
+6,"+ fixed output format: one table per note, Task|Owner|Deadline, no other text",36/36,36/36,0,0,1,0,yes (0 tasks under the wrong note)
+unseen,Final prompt on 3 unseen notes,9/9,9/9,0,0,1,0,yes (0 tasks under the wrong note)
+unseen run 2,"Same final prompt on unseen notes, re-run for stability",9/9,9/9,0,0,1,0,yes (0 tasks under the wrong note)

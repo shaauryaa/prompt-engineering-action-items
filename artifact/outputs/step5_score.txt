@@ -1,0 +1,12 @@
+File: step5.md
+Table rows parsed:            37
+Items found (task + owner):   36/36
+Fully correct (+ deadline):   36/36
+Missed or wrong owner:        0
+Wrong deadline:               0
+Extra rows (non-tasks etc.):  0
+Text lines outside table:     0
+'No deadline' spellings:      1 ['none']
+'No owner' spellings:         1 ['unassigned']
+Tables split by NOTE heading: no
+Untranslated Hindi deadlines: 0 []

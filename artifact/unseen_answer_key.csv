@@ -1,0 +1,10 @@
+id,note,task,owner,deadline,task_keywords,deadline_accept,optional
+U1.1,1,Hire the choreographer,Arjun,Tuesday,choreograph,tuesday;tue,
+U1.2,1,Edit the behind-the-scenes clip,Neel,Sunday,behind;clip;bts,sunday;sun,
+U1.3,1,Get drone permission from the society office,Unassigned,None,drone;permission,NONE,
+U2.1,2,Book the guest for episode 12,Vikram,3 Jan,guest,3 jan;jan 3;3rd jan;3 january;january 3;03/01;3/1,
+U2.2,2,Write the intro script,Sana,After the guest confirms,intro;script,after;once,
+U3.1,3,Fill the festival submission form,Arjun,Tonight,submission;form,tonight;today,
+U3.2,3,Final check of the subtitles,Sana,Day after tomorrow,subtitle,day after tomorrow,
+U3.3,3,Make the 60-second trailer cut,Neel & Sana,15 Jan,trailer;60,15 jan;jan 15;15th jan;15 january;january 15;15/01;15/1,
+U3.4,3,Get the poster printed,Unassigned,None,poster;print,NONE,

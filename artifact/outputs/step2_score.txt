@@ -1,0 +1,20 @@
+File: step2.md
+Table rows parsed:            30
+Items found (task + owner):   30/36
+Fully correct (+ deadline):   30/36
+Missed or wrong owner:        6
+Wrong deadline:               0
+Extra rows (non-tasks etc.):  0
+Text lines outside table:     7
+'No deadline' spellings:      2 ['date not fixed', 'not set']
+'No owner' spellings:         0 []
+Tables split by NOTE heading: no
+Untranslated Hindi deadlines: 0 []
+
+MISSED / WRONG OWNER:
+  1.3   Book the drone operator  (owner: Unassigned)
+  4.2   Send costume photos to Zoya  (owner: Anaya)
+  5.3   Call the AC repair person  (owner: Unassigned)
+  6.4   Arrange crew travel insurance  (owner: Unassigned)
+  7.4   Check whether the venue has a piano  (owner: Unassigned)
+  10.4  Plan crew thank-you dinner  (owner: Unassigned)

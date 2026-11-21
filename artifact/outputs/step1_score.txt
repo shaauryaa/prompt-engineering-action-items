@@ -1,0 +1,15 @@
+File: step1.md
+Table rows parsed:            37
+Items found (task + owner):   36/36
+Fully correct (+ deadline):   36/36
+Missed or wrong owner:        0
+Wrong deadline:               0
+Extra rows (non-tasks etc.):  1
+Text lines outside table:     1
+'No deadline' spellings:      3 ['date not fixed', 'date to be decided', 'not set']
+'No owner' spellings:         1 ['unassigned']
+Tables split by NOTE heading: no
+Untranslated Hindi deadlines: 0 []
+
+EXTRA ROWS:
+  5	Sound team	Add sitar layer (optional)	Meher	Only if there is time

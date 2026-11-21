@@ -1,0 +1,18 @@
+Extract the action items from these meeting notes.
+Include a task if someone said they will do it (including offers like "I can..."), or if the meeting said it needs to be done even though nobody owns it yet; for those, write the owner as Unassigned. Do not include decisions, information updates, cancelled tasks, tasks that are already done, or optional ideas (for example "might" or "only if there is time").
+Write each deadline in English (translate Hindi words, for example kal = tomorrow, tak = by). If the timing is a condition such as "after X" or "once X", put that condition in the Deadline column. Only if there is no timing at all, write exactly None, with no extra words or brackets.
+Output format: for each note, write a heading NOTE n followed by a separate markdown table with exactly these three columns in this order: Task | Owner | Deadline. Reply with only these 3 headings and tables, and no other text.
+
+NOTE 1 - Music video planning for the single "Chand Raat"
+Attendees: Pia, Arjun, Neel
+- Arjun will hire the choreographer by Tuesday.
+- Pia said the colour palette will be blue and gold.
+- Neel: "I can edit the behind-the-scenes clip, give me till Sunday."
+- Someone has to get the drone permission from the society office.
+- Pia was going to call the costume rental shop, but Arjun already did it this morning.
+
+NOTE 2 - Podcast "Reel Talk", episode planning (quick notes)
+vikram to book the guest for episode 12 by 3 jan. sana will write the intro script after the guest confirms. pia might design new cover art, not sure yet. episode 11 got 2k listens, everyone happy.
+
+NOTE 3 - Film festival submission
+Arjun: chalo, submission form aaj raat tak bhar dunga. Sana, subtitles ka final check parso tak kar lena. Neel aur Sana milke trailer ka 60-second cut banayenge, deadline 15 Jan. Poster print karwana hai, abhi decide nahi hua kaun karega.
