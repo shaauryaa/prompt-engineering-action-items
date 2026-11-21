@@ -75,4 +75,4 @@ The scorer reads markdown, tab-separated or CSV tables. It matches each key item
 
 ## AI use
 
-Prompts were run on Claude Haiku 5.5. Claude Code helped draft the fictional notes and answer keys, write the scoring script, and lay out the report.
+Prompts were run on Claude Haiku 5.5. Everything else done manually.
