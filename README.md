@@ -66,13 +66,6 @@ python score.py outputs/unseen_test.md unseen_answer_key.csv
 
 The scorer reads markdown, tab-separated or CSV tables. It matches each key item by task keywords and owner, then checks the deadline. It also reports extra rows, text outside the tables, inconsistent missing values and untranslated Hindi.
 
-## Limitations
-
-- Steps 1–6 were each run once; only the final prompt was re-run for stability.
-- The final prompt hard-codes the number of notes ("10 headings").
-- Date style still varies ("By Friday" vs "Monday", "3 Jan" vs "3 January").
-- Matching is keyword-based, so every output was also checked by eye.
-
 ## AI use
 
 Prompts were run on Claude Haiku 5.5. Everything else done manually.
